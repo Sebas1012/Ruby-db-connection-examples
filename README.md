@@ -5,10 +5,12 @@ Este repositorio contiene diferentes ejemplos de conexiones a diversos motores d
 ### Motores usados:
 - [SQLserver](https://www.microsoft.com/es-es/sql-server/sql-server-downloads)
 - [Redis](https://redis.com/)
+- [PostgreSQL](https://www.postgresql.org/)
 
 ### Gemas Usadas:
 - [tiny_tds](https://rubygems.org/gems/tiny_tds)
 - [redis](https://rubygems.org/gems/redis)
+- [pg](https://rubygems.org/gems/pg)
 
 
 
