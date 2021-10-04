@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://ibb.co/vmZjxtd" alt="1" border="0">
+</p>
+
 ## Ruby DB Connection Examples:
 
 Este repositorio contiene diferentes ejemplos de conexiones a diversos motores de bases de datos, tanto relacionales como no relacionales. Todos los ejemplos están realizados por mi como forma de practicar y potenciar mis habilidades con Ruby.
