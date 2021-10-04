@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://ibb.co/vmZjxtd" alt="1" border="0">
+  <img src="https://ibb.co/BGVvgRH" alt="1" border="0">
 </p>
 
 ## Ruby DB Connection Examples:
