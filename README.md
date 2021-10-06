@@ -6,13 +6,13 @@
 
 Este repositorio contiene diferentes ejemplos de conexiones a diversos motores de bases de datos, tanto relacionales como no relacionales. Todos los ejemplos están realizados por mi como forma de practicar y potenciar mis habilidades con Ruby.
 
-### Motores usados:
+### Motores usados :floppy_disk::
 - [SQLserver](https://www.microsoft.com/es-es/sql-server/sql-server-downloads)
 - [Redis](https://redis.com/)
 - [PostgreSQL](https://www.postgresql.org/)
 - [MongoDB](https://www.mongodb.com/es)
 
-### Gemas Usadas:
+### Gemas Usadas :gem::
 - [tiny_tds](https://rubygems.org/gems/tiny_tds)
 - [redis](https://rubygems.org/gems/redis)
 - [pg](https://rubygems.org/gems/pg)
@@ -20,8 +20,11 @@ Este repositorio contiene diferentes ejemplos de conexiones a diversos motores d
 
 *Nota: La gema mongo se debe instalar con privilegios de administrador ya que de lo contrario arrojara un error.*
 
-### Servicios cloud usados:
-- [Clever Cloud](https://www.clever-cloud.com/)
-- [Heroku](https://www.heroku.com/)
-- [MongoDB Atlas](https://www.mongodb.com/es/cloud/atlas)
-- [Redis Cloud](https://redis.com/redis-enterprise-cloud/overview/)
+### Servicios cloud usados :construction_worker::
+| Plataforma | Servicio | Calificacion |
+| --- | --- | --- |
+| [Clever Cloud](https://www.clever-cloud.com/)  | PostgreSQL | :star::star: |
+| [Heroku](https://www.heroku.com/) | Heroku Postgres | :star::star::star::star: |
+| [MongoDB Atlas](https://www.mongodb.com/es/cloud/atlas) | Atlas | :star::star::star::star: |
+| [Redis Cloud](https://redis.com/redis-enterprise-cloud/overview/) | Redis Database | :star::star::star: |
+
