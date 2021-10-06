@@ -10,11 +10,18 @@ Este repositorio contiene diferentes ejemplos de conexiones a diversos motores d
 - [SQLserver](https://www.microsoft.com/es-es/sql-server/sql-server-downloads)
 - [Redis](https://redis.com/)
 - [PostgreSQL](https://www.postgresql.org/)
+- [PostgreSQL](https://www.mongodb.com/es)
 
 ### Gemas Usadas:
 - [tiny_tds](https://rubygems.org/gems/tiny_tds)
 - [redis](https://rubygems.org/gems/redis)
 - [pg](https://rubygems.org/gems/pg)
+- [mongo](https://rubygems.org/gems/mongo)
 
+### Servicios cloud usados:
+- [Clever Cloud](https://www.clever-cloud.com/)
+- [Heroku](https://www.heroku.com/)
+- [MongoDB Atlas](https://www.mongodb.com/es/cloud/atlas)
+- [Redis Cloud](https://redis.com/redis-enterprise-cloud/overview/)
 
 
