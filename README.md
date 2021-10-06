@@ -18,11 +18,10 @@ Este repositorio contiene diferentes ejemplos de conexiones a diversos motores d
 - [pg](https://rubygems.org/gems/pg)
 - [mongo](https://rubygems.org/gems/mongo)
 
+*Nota: La gema mongo se debe instalar con privilegios de administrador ya que de lo contrario arrojara un error.*
+
 ### Servicios cloud usados:
 - [Clever Cloud](https://www.clever-cloud.com/)
 - [Heroku](https://www.heroku.com/)
 - [MongoDB Atlas](https://www.mongodb.com/es/cloud/atlas)
 - [Redis Cloud](https://redis.com/redis-enterprise-cloud/overview/)
-
-*Nota: La gema mongo se debe instalar con privilegios de administrador ya que de lo contrario arrojara un error.*
-
