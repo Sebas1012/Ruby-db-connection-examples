@@ -10,7 +10,7 @@ Este repositorio contiene diferentes ejemplos de conexiones a diversos motores d
 - [SQLserver](https://www.microsoft.com/es-es/sql-server/sql-server-downloads)
 - [Redis](https://redis.com/)
 - [PostgreSQL](https://www.postgresql.org/)
-- [PostgreSQL](https://www.mongodb.com/es)
+- [MongoDB](https://www.mongodb.com/es)
 
 ### Gemas Usadas:
 - [tiny_tds](https://rubygems.org/gems/tiny_tds)
@@ -24,4 +24,5 @@ Este repositorio contiene diferentes ejemplos de conexiones a diversos motores d
 - [MongoDB Atlas](https://www.mongodb.com/es/cloud/atlas)
 - [Redis Cloud](https://redis.com/redis-enterprise-cloud/overview/)
 
+*Nota: La gema mongo se debe instalar con privilegios de administrador ya que de lo contrario arrojara un error.*
 
